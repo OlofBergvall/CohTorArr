@@ -1,5 +1,5 @@
-# Cohomology-of-moduli-spaces-of-Del-Pezzo-surfaces
-SageMath code for computations related to the cohomology of moduli spaces of geometrically marked Del Pezzo surfaces of degrees 3 and 4.
+# CohTorArr
+SageMath code for computations related to the cohomology of the cohomology of complements of toric arrangements (in particular computations related to cohomology of moduli spaces of geometrically marked Del Pezzo surfaces of degrees 3 and 4).
 
 The simplest way to use the program is the following:
 
