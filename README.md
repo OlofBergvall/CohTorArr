@@ -10,5 +10,7 @@ The simplest way to use the program is the following:
 5. Compute the values of the equivariant Poincaré polynomial for all conjugacy classes, e.g. "polsa2=many_pols(ca2,ra2,0,len(ca2)-1)".
 
 There is functionality for computing e.g. the value at a single conjugacy class or computing the Poincaré polynomial for
-the action extended by {+/-1}. More information about this is provided in the comments (you might also want to consult the code for the
-method "many_pols" in "toric_generate_polynomial.sage").
+the action extended by {+/-1} (and Z/3Z in "relative_toric.sage"). More information about this is provided in the comments (you might also want to consult the code for the method "many_pols" in "toric_generate_polynomial.sage").
+
+The file "relative_toric.sage" is a version of the program which is convenient e.g. for computations with a root system
+inside a larger root system.
