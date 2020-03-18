@@ -15,4 +15,6 @@ the action extended by {+/-1} (and Z/3Z in "relative_toric.sage"). More informat
 The file "relative_toric.sage" is a version of the program which is convenient e.g. for computations with a root system
 inside a larger root system. 
 
-WARNING: some of the function names are reused in "relative_toric.sage" and there are compatability issues.
+WARNING: some of the function names are reused in "relative_toric.sage" and there are compatability issues (you will get an error message
+if you have loaded the files in an incorrect order).  However, as long as you don't run both versions in the same Sage-session no 
+issues will arise (or make sure to reload the version you want to use).
