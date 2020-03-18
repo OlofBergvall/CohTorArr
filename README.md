@@ -13,4 +13,6 @@ There is functionality for computing e.g. the value at a single conjugacy class 
 the action extended by {+/-1} (and Z/3Z in "relative_toric.sage"). More information about this is provided in the comments (you might also want to consult the code for the method "many_pols" in "toric_generate_polynomial.sage").
 
 The file "relative_toric.sage" is a version of the program which is convenient e.g. for computations with a root system
-inside a larger root system.
+inside a larger root system. 
+
+WARNING: some of the function names are reused in "relative_toric.sage" and there are compatability issues.
